@@ -1,0 +1,14 @@
+echo "# Unity generated files" >> .gitignore
+echo "Library/" >> .gitignore
+echo "Temp/" >> .gitignore
+echo "Logs/" >> .gitignore
+echo "Build/" >> .gitignore
+echo "UserSettings/" >> .gitignore
+echo "*.csproj" >> .gitignore
+echo "*.unityproj" >> .gitignore
+echo "*.sln" >> .gitignore
+echo "*.pidb" >> .gitignore
+echo "*.suo" >> .gitignore
+echo "*.user" >> .gitignore
+echo "*.userprefs" >> .gitignore
+echo "*.collab" >> .gitignore
