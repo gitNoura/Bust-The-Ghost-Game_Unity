@@ -4,6 +4,10 @@
 
 [🎥 Watch the YouTube Demo](https://youtu.be/upx52t09c5A?si=XRC8sLTgnTf_pTB_)  
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/11843495-d148-4aab-be4a-95286612dcda" alt="Image Description">
+</div>
+
 ---
 
 ## 🔍 Introduction  
@@ -19,6 +23,10 @@ The project leverages Unity and AI techniques to create a unique gaming experien
 - Players lose points (credits) with each click.  
 - **Peep Button**: Displays the probability distribution across the grid.  
 - **Bust Button**: Allows players to guess the ghost's exact location, leading to either victory or loss.  
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/97f7b5a7-3faa-40ee-bcf5-a5050a1a021d" alt="Image Description">
+</div>
+
 
 ---
 
